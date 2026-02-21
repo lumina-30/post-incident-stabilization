@@ -8,3 +8,7 @@ This material:
 Post-incident institutional stabilization reference.
 This repository contains non-prescriptive checklists for organizational continuity.
 
+Related references:
+- Institutional Friction Toolkit
+- Post-Incident Decision Review
+- Stop Authority (Reference)
